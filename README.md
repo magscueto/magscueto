@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @magscueto
-- 👀 I’m interested in ... Graphic Design, Web Development
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React adn Arduino IDE
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Design, Web Development and Music
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React and Arduino IDE
+- 💞️ I’m looking to collaborate on ... any startup.
 - 📫 How to reach me ...
 
 <!---
